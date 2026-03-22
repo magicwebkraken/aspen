@@ -858,7 +858,7 @@
                                       children: "",
                                     }),
                                     " ",
-                                    "Gut says this is Bonk teams wildcard, if there ever was a coin to crime this is it",
+                                    "Gut says this is ASPEN teams wildcard, if there ever was a coin to crime this is it",
                                   ],
                                 }),
                                 (0, i.jsx)("p", {
