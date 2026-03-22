@@ -36027,7 +36027,7 @@ const fV =
   ];
 function hV() {
   const [o, i] = M.useState(!1),
-    r = "0x2Be278C1c9D43D8f75e3948A2ce364F815646724",
+    r = "0xComingSoon",
     c = () => {
       navigator.clipboard.writeText(r), i(!0), setTimeout(() => i(!1), 2e3);
     };
