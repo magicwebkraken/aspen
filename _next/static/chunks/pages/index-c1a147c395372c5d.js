@@ -838,7 +838,7 @@
                                 }),
                                 (0, i.jsxs)("p", {
                                   children: [
-                                    "This pretty much sums up the narrative. This is a fucking Trump dog. Easiest layup for bonk/USD1 ever. Best coin we have had all month.",
+                                    "This pretty much sums up the narrative. This is a fucking Trump dog. Easiest layup for ASPEN ever. Best coin we have had all month.",
                                     " ",
                                     (0, i.jsx)("span", {
                                       className: "font-bold",
