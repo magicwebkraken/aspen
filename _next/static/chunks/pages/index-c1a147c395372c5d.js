@@ -845,7 +845,7 @@
                                       style: { color: "#FD8A1B" },
                                       children: "",
                                     }),
-                                    ".",
+                                    "",
                                   ],
                                 }),
                                 (0, i.jsxs)("p", {
