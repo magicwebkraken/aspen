@@ -1050,12 +1050,7 @@
                                   className:
                                     "flex flex-col items-center text-center relative",
                                   children: [
-                                    (0, i.jsx)("div", {
-                                      className:
-                                        "w-16 h-16 rounded-full flex items-center justify-center mb-5 text-white",
-                                      style: { background: e.color },
-                                      children: e.icon,
-                                    }),
+
                                     (0, i.jsx)("h3", {
                                       className: "text-xl font-bold mb-2",
                                       style: {
