@@ -1835,12 +1835,6 @@
                             " ASPEN. All rights reserved.",
                           ],
                         }),
-                        (0, i.jsx)("p", {
-                          className: "text-xs opacity-75",
-                          style: { color: "#D45500" },
-                          children:
-                            "The adorable rescue pup from the same shelter as Neiro and Cocoro",
-                        }),
                       ],
                     }),
                   ],
