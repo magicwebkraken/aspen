@@ -843,7 +843,7 @@
                                     (0, i.jsx)("span", {
                                       className: "font-bold",
                                       style: { color: "#FD8A1B" },
-                                      children: "irresistible",
+                                      children: "",
                                     }),
                                     ".",
                                   ],
