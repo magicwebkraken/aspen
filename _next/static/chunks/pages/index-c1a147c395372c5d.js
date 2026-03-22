@@ -855,7 +855,7 @@
                                     (0, i.jsx)("span", {
                                       className: "font-bold",
                                       style: { color: "#B8860B" },
-                                      children: "Japanese singer",
+                                      children: "",
                                     }),
                                     " ",
                                     "Gut says this is Bonk teams wildcard, if there ever was a coin to crime this is it",
