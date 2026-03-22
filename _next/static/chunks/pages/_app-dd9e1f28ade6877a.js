@@ -64,12 +64,12 @@
                   }),
                   (0, o.jsx)("title", {
                     children:
-                      "ASPEN | $ASPEN - The Adorable Anime Pup on Solana",
+                      "ASPEN | $ASPEN - The Adorable Anime Pup on Ethereum",
                   }),
                   (0, o.jsx)("meta", {
                     property: "og:title",
                     content:
-                      "ASPEN | $ASPEN - The Adorable Anime Pup on Solana",
+                      "ASPEN | $ASPEN - The Adorable Anime Pup on Ethereum",
                   }),
                   (0, o.jsx)("meta", {
                     name: "description",

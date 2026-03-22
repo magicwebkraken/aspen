@@ -1299,7 +1299,7 @@
               title: "Phase 1: The Beginning",
               items: [
                 "Website launch",
-                "Contract deployment on Solana",
+                "Contract deployment on Ethereum",
                 "Social media setup",
                 "Community building",
                 "Initial marketing push",
