@@ -1773,41 +1773,7 @@
                 children: (0, i.jsxs)("div", {
                   className: "flex flex-col items-center text-center space-y-8",
                   children: [
-                    (0, i.jsxs)(d.P.div, {
-                      className: "flex items-center space-x-4",
-                      initial: { opacity: 0, y: 20 },
-                      animate: { opacity: 1, y: 0 },
-                      transition: { duration: 0.6 },
-                      children: [
-                        (0, i.jsx)(d.P.div, {
-                          className:
-                            "w-16 h-16 relative overflow-hidden rounded-full",
-                          whileHover: { rotate: [0, -10, 10, 0], scale: 1.1 },
-                          transition: { duration: 0.5 },
-                          style: {
-                            background: "#FD8A1B",
-                            border: "3px solid #fff",
-                            boxShadow: "0 4px 15px rgba(253, 138, 27, 0.3)",
-                          },
-                          children: (0, i.jsx)(c.A, {
-                            src: "/images/logo.png",
-                            alt: "ASPEN Logo",
-                            layout: "fill",
-                            objectFit: "cover",
-                          }),
-                        }),
-                        (0, i.jsx)("h2", {
-                          className: "text-3xl font-extrabold tracking-wider",
-                          style: {
-                            fontFamily: "ponke, cursive",
-                            color: "#FD8A1B",
-                            textShadow:
-                              "2px 2px 0px #FFD700, 4px 4px 0px rgba(253, 138, 27, 0.3)",
-                          },
-                          children: "$ASPEN",
-                        }),
-                      ],
-                    }),
+                    
                     (0, i.jsx)(d.P.div, {
                       className: "flex items-center space-x-6",
                       initial: { opacity: 0, y: 20 },
